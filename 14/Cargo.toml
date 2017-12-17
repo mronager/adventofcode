@@ -1,0 +1,10 @@
+[package]
+name = "14"
+version = "0.1.0"
+
+[[bin]]
+name = "disk"
+path = "src/disk.rs"
+[[bin]]
+name = "disk-adjacent"
+path = "src/disk-adjacent.rs"
